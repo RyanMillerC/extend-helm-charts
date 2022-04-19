@@ -1,0 +1,6 @@
+dependencies:
+- name: global-chart
+  repository: oci://quay-registry-quay-quay-enterprise.apps.hub.taco.moe/helm
+  version: 0.1.0
+digest: sha256:357020dd61ab90b12c289c30d2c66d59327195fbe1c6c2d74e1bad4f0b7f2c41
+generated: "2022-04-18T16:46:17.23602933-04:00"

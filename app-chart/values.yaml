@@ -1,0 +1,4 @@
+# Overwriting these values from the global chart
+global-chart:
+  replicas: 2
+  dnsName: my-app.apps.hub.taco.moe

@@ -1,0 +1,7 @@
+# Full name and tag of the container image
+# image: nginx:latest
+image: nginx:latest
+
+# Domain name the application will use. DNS must resolve for this name before
+# running the chart.
+dnsName: taco.moe
